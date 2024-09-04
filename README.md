@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **C++ and C#**
 
-- 👨‍💻 All of my projects are available at [(soon)]((soon))
+- 👨‍💻 All of my projects are available at this github
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **support@villainmc.net**
-
-- 📄 Know about my experiences [(soon)]((soon))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
