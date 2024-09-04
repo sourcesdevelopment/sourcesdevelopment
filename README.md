@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and C#**
 
-- 👨‍💻 All of my projects are available at this github
+- 👨‍💻 All of my projects are available at this github (Exept VillainMC that one can be found on the top in our discord or just shoot me a email and i will respond about the project)
 
 - 💬 Ask me about **anything**
 
