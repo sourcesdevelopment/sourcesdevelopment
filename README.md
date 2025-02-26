@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Source</h1>
 <h3 align="center">A Dutch Game/Backend/Frontend Developer</h3>
 
-- 🔭 I’m currently working on [VillainMC](https://discord.gg/villainmc)
+- 🔭 I’m currently working on Nexor Role Play & i am the force behind https://t.me/BytevexVirus. I expose and dismantle malicious GitHub viruses, working tirelessly to keep our digital world secure.
 
 - 🌱 I’m currently learning **C++ and C#**
 
-- 👨‍💻 All of my projects are available at this github (Exept VillainMC that one can be found on the top in our discord or just shoot me a email and i will respond about the project)
+- 👨‍💻 All of my projects are available at this github (Exept Nexor Role Play that one can be found on the top in our discord or just shoot me a email and i will respond about the project)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **support@villainmc.net**
+- 📫 How to reach me **Discord: Bytevex | Telegram: @IamBytevex**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
